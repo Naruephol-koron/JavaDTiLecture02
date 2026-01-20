@@ -16,7 +16,7 @@ public class MyClass01 {
         int score = 0; //ตัวแปร
     }
 
-    public void met2(){ }
+    public void met2( ){ }
 
     private void met3(){ }
 

@@ -11,7 +11,7 @@ public class MyClass03 {
     public static void showData(int a, int b){ }
 
     public static void main() {
-        showData();
+        showData( );
         showData(10, 20);
         showData(500.4568);
     }

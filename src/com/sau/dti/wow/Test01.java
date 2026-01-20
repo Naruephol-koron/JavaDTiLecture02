@@ -7,5 +7,5 @@ class Test04 {
 }
 
 class Test05 {
-    Test02 aa;
+    Test02 aaa;
 }

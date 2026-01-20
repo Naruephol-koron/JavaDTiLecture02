@@ -13,7 +13,7 @@ public class MyClass02 {
          System.out.println("อายุ " + age + " ปี");
      }
     //no parameter has return
-    public String metC(){
+    public String metC( ){
          return "Wow wow wow";
     }
 
