@@ -5,7 +5,7 @@ public class Dti02 {
     public int dataD = 40;
     protected int dataE = 50;
 
-    public void metDti02( ){
+    public void metDti02(){
 
     }
 }

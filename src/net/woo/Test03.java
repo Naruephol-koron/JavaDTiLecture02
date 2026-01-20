@@ -5,7 +5,6 @@ package net.woo;
 import com.sau.dti.wow.*;
 
 public class Test03 {
-
     Test01 aa;
     Info2 bb;
     Test02 cc;

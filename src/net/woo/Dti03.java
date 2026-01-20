@@ -5,6 +5,5 @@ public class Dti03 {
     int dataG = 70;
 
     public void metDti03(){
-
     }
 }
